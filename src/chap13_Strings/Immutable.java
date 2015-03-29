@@ -1,4 +1,4 @@
-public class Test {
+public class Immutable {
     public static String upcase(String s) {
         return s.toUpperCase();
     }
